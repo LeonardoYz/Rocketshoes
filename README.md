@@ -1,6 +1,4 @@
 <img src="./readme-files/logo.svg">
-<br />
-<br />
 <h1> 𝗥𝗼𝗰𝗸𝗲𝘁𝘀𝗲𝗮𝘁 𝗜𝗴𝗻𝗶𝘁𝗲 (𝗥𝗲𝗮𝗰𝘁𝗝𝗦) </h1>
 <p>🔎 About: e-commerce website specialized in footwear.</p>
 
