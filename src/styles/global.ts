@@ -29,4 +29,24 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  ::-webkit-scrollbar {
+    width: 0.65rem;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #393b47;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #7159c1;
+    border-radius: 0.5rem;
+  }
+
+  @supports (scrollbar-color: grey lightgrey) {
+    * {
+      scrollbar-color: #7159c1 #393b47;
+      scrollbar-width: 0.65rem;
+    }
+  }
 `;
